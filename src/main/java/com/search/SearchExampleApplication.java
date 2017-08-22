@@ -10,7 +10,6 @@ import com.search.Descriptor.FinalOutput;
 public class SearchExampleApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Testinhg");
 		SpringApplication.run(SearchExampleApplication.class, args);
 	}
 }
