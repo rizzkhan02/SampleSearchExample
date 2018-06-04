@@ -5,6 +5,11 @@ public class TestSmash {
 	
 	public void test(){
 		System.out.println("1st Commit");
+		
+		
+		System.out.println("2nd Commit");
 	}
+	
+	
 	
 }
