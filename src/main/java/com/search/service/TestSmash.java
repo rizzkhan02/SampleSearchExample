@@ -8,6 +8,8 @@ public class TestSmash {
 		
 		
 		System.out.println("2nd Commit");
+		
+		System.out.println("3rd Commit");
 	}
 	
 	
